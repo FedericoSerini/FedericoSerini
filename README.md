@@ -2,10 +2,14 @@
 
 I am Federico and I live in Rome, Italy. I fell in love with programming since I was just a kid.
 
+<br> 
+
 # 📔  Contacts
 
 [![Linkedin Badge](https://img.shields.io/badge/-Federico%20Serini-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/federico-serini-0a5013122/)](https://www.linkedin.com/in/federico-serini-0a5013122/)
 [![Outlook Badge](https://img.shields.io/badge/-fede.serini95@live.it-blue?style=for-the-badge&logo=microsoft-outlook&logoColor=white&link=mailto:fede.serini95@live.it)](mailto:fede.serini95@live.it)
+
+<br> 
 
 # 💻 Technologies
 
@@ -55,6 +59,9 @@ I am Federico and I live in Rome, Italy. I fell in love with programming since I
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=for-the-badge&logo=bitbucket)
 
 ---
+
+<br> 
+<br>
 
 ![Federico's github stats](https://github-readme-stats.vercel.app/api?username=FedericoSerini&count_private=true&show_icons=true&theme=cobalt&include_all_commits=true)  
 
