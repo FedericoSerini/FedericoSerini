@@ -24,9 +24,7 @@ Feel free to reach me out on e-mail or LinkedIn
 ![Java](https://img.shields.io/badge/-java-007396?style=for-the-badge&logo=java)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![GO](https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=Go&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
-![Rust](https://img.shields.io/badge/-Rust-3776AB?style=for-the-badge&logo=Rust&logoColor=white)
 
 #### Runtime Environment
 
