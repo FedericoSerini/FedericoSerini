@@ -2,8 +2,7 @@
 
 My name is Federico and I live in Rome, Italy. Graduated as Informatics Industrial Engineer. 
 Even if I did not attend a bachelor in Computer Science I closed the gap by my own. 
-Working in the IT industry since 2016 and my curiosity and ambition lead me to my current
-job as lead software engineer. I read tons of books about methodology and software architecture. 
+Working in the IT industry since 2016. I read tons of books about methodology and software architecture. 
 In fact, my focus is all about methodology at the expense of technology 
 
 My favorite book is:  
