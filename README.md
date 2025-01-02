@@ -1,14 +1,14 @@
-## Hello world !
+## Hello world!
 
-My name is Federico and I live in Rome, Italy. Graduated as Informatics Industrial Engineer. 
-Even if I did not attend a bachelor in Computer Science I closed the gap by my own. 
+My name is Federico and I live in Rome, Italy. Graduated as an Informatics Industrial Engineer. 
+Even if I did not attend a bachelor's in Computer Science I closed the gap by my own. 
 Working in the IT industry since 2016. I read tons of books about methodology and software architecture. 
-In fact, my focus is all about methodology at the expense of technology 
+My focus is all about methodology at the expense of technology 
 
 My favorite book is:  
 `Design Patterns: Elements of Reusable Object-Oriented Software`
 
-Feel free to reach me out on e-mail or LinkedIn
+Feel free to reach me by e-mail or LinkedIn
 
 [![Linkedin Badge](https://img.shields.io/badge/-Federico%20Serini-0077B5?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/federico-serini-0a5013122/)](https://www.linkedin.com/in/federico-serini-0a5013122/)
 [![Outlook Badge](https://img.shields.io/badge/-fede.serini95@live.it-0078D4?style=flat&logo=microsoft-outlook&logoColor=white&link=mailto:fede.serini95@live.it)](mailto:fede.serini95@live.it)
@@ -75,7 +75,7 @@ Feel free to reach me out on e-mail or LinkedIn
 #### Favorite OS
 ![CentOS](https://img.shields.io/badge/-CentOS-262577?style=for-the-badge&logo=centos)
 
-#### And many more..
+#### And many more...
 
 ---
 
