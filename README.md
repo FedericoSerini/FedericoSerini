@@ -84,4 +84,4 @@ Feel free to reach me by e-mail or LinkedIn
 
 ![Federico's github stats](https://github-readme-stats.vercel.app/api?username=FedericoSerini&count_private=true&show_icons=true&theme=cobalt&include_all_commits=true)  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FedericoSerini&theme=cobalt&langs_count=10)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FedericoSerini&theme=cobalt&langs_count=15)
