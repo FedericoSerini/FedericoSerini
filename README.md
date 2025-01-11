@@ -10,7 +10,8 @@ My favorite book is:
 
 Feel free to reach me by e-mail or LinkedIn
 
-[![Linkedin Badge](https://img.shields.io/badge/-Federico%20Serini-0077B5?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/federico-serini-0a5013122/)](https://www.linkedin.com/in/federico-serini-0a5013122/)
+
+[![Linkedin Badge](https://img.shields.io/badge/-Federico%20Serini-0077B5?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/federico-serini-dev)](https://www.linkedin.com/in/federico-serini-dev)
 [![Outlook Badge](https://img.shields.io/badge/-fede.serini95@live.it-0078D4?style=flat&logo=microsoft-outlook&logoColor=white&link=mailto:fede.serini95@live.it)](mailto:fede.serini95@live.it)
 
 ---
