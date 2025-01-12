@@ -1,7 +1,7 @@
-## Hello world!
+# Hello world!
 
 My name is Federico and I live in Rome, Italy. Graduated as an Informatics Industrial Engineer. 
-Even if I did not attend a bachelor's in Computer Science I closed the gap by my own. 
+Even if I did not attend a bachelor's in Computer Science I closed the gap alone. 
 Working in the IT industry since 2016. I read tons of books about methodology and software architecture. 
 My focus is all about methodology at the expense of technology 
 
@@ -19,19 +19,19 @@ Feel free to reach me by e-mail or LinkedIn
 ## Tech Stack
 
 
-#### Languages 
+### Languages 
 
 ![Java](https://img.shields.io/badge/-java-007396?style=for-the-badge&logo=java)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
 
-#### Runtime Environment
+### Runtime Environment
 
 ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=for-the-badge&logo=Node.js&logoColor=white)
 
 
-#### RDBMS
+### RDBMS
 
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -39,7 +39,7 @@ Feel free to reach me by e-mail or LinkedIn
 ![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)
 
 
-#### NoSQL
+### NoSQL
 
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=Redis&logoColor=white)
@@ -55,17 +55,17 @@ Feel free to reach me by e-mail or LinkedIn
 ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 
 
-#### Cloud Platforms
+### Cloud Platforms
 
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazon-aws)
 
 
-#### IDE
+### IDE
 
 ![JetBrains](https://img.shields.io/badge/-JetBrains-black?style=for-the-badge&logo=jetbrains)
 
 
-#### Versioning
+### Versioning
 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
@@ -73,16 +73,16 @@ Feel free to reach me by e-mail or LinkedIn
 ![SubVersion](https://img.shields.io/badge/-SubVersion-809CC9?style=for-the-badge&logo=subversion&logoColor=white)
 ![BitBucket](https://img.shields.io/badge/-BitBucket-0052CC?style=for-the-badge&logo=bitbucket)
 
-#### Favorite OS
+### Favorite OS
 ![CentOS](https://img.shields.io/badge/-CentOS-262577?style=for-the-badge&logo=centos)
-
-#### And many more...
 
 ---
 
 ## My Repositories stats
-<br>
 
-![Federico's github stats](https://github-readme-stats.vercel.app/api?username=FedericoSerini&count_private=true&show_icons=true&theme=cobalt&include_all_commits=true)  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FedericoSerini&theme=cobalt&langs_count=15)
+<a href="https://github-readme-stats.vercel.app/api?username=FedericoSerini&count_private=true&show_icons=true&theme=gotham&include_all_commits=true&hide=contribs,prs,issues&card_width=260">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=FedericoSerini&count_private=true&show_icons=true&theme=gotham&include_all_commits=true&hide=contribs,prs,issues&card_width=260" />
+</a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=FedericoSerini&theme=gotham&langs_count=15&layout=compact">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FedericoSerini&theme=gotham&langs_count=15&layout=compact" />
+</a>
