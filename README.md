@@ -19,8 +19,8 @@ Currently, I am focusing on AWS and I will probably stick to it. Java is the lan
 
 ## My Repositories stats
 
-<a href="https://github-readme-stats-one-mocha-57.vercel.app/api?username=FedericoSerini&show_icons=true&theme=gotham&hide=contribs,prs,issues&card_width=260">
-    <img height=200 align="center" src="https://github-readme-stats-one-mocha-57.vercel.app/api?username=FedericoSerini&show_icons=true&theme=gotham&hide=contribs,prs,issues&card_width=260" />
+<a href="https://github-readme-stats-one-mocha-57.vercel.app/api?username=FedericoSerini&show_icons=true&include_all_commits=true&theme=gotham&card_width=260">
+    <img height=200 align="center" src="https://github-readme-stats-one-mocha-57.vercel.app/api?username=FedericoSerini&show_icons=true&include_all_commits=true&theme=gotham&card_width=260" />
 </a>
 <a href="https://github-readme-stats-one-mocha-57.vercel.app/api/top-langs/?username=FedericoSerini&theme=gotham&langs_count=15&layout=compact">
     <img height=200 align="center" src="https://github-readme-stats-one-mocha-57.vercel.app/api/top-langs/?username=FedericoSerini&theme=gotham&langs_count=15&layout=compact" />
