@@ -8,20 +8,3 @@ seamless collaboration between development and operations teams. Skilled in work
 passionate about enhancing system reliability and streamlining workflows for efficient software delivery.
 
 I have also an interest in Big Data and Data Engineering. 
-
----
-
-## About my tech stack
-
-Currently, I am focusing on AWS and I will probably stick to it. Java is the language that I use the most but I am transitioning to Go and Python 
-
---- 
-
-## My Repositories stats
-
-<a href="https://github-readme-stats-one-mocha-57.vercel.app/api?username=FedericoSerini&show_icons=true&include_all_commits=true&theme=gotham&card_width=260">
-    <img height=200 align="center" src="https://github-readme-stats-one-mocha-57.vercel.app/api?username=FedericoSerini&show_icons=true&include_all_commits=true&theme=gotham&card_width=260" />
-</a>
-<a href="https://github-readme-stats-one-mocha-57.vercel.app/api/top-langs/?username=FedericoSerini&theme=gotham&langs_count=15&layout=compact">
-    <img height=200 align="center" src="https://github-readme-stats-one-mocha-57.vercel.app/api/top-langs/?username=FedericoSerini&theme=gotham&langs_count=15&layout=compact" />
-</a>
